@@ -1,4 +1,6 @@
-Hi, I’m Ariel Morgan 😀
+<center>
+  Hi, I’m Ariel Morgan 😀
+</center>
 
 <hr/>
 
