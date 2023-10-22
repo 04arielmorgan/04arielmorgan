@@ -1,7 +1,9 @@
 
 <!-- My Gif the Dragon Ball -->
 <div>
-  <image width="150px" src="https://github.com/morgan-ariel/morgan-ariel/blob/main/dragon-ball-gif.gif" />
+  <p align="center">
+    <image width="150px" src="https://github.com/morgan-ariel/morgan-ariel/blob/main/dragon-ball-gif.gif" />
+  </p>
 </div>
 
 <!---
